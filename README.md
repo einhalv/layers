@@ -1,2 +1,4 @@
 # layers
-Calculation of impedancde and wave-amplitudes for layered piezoelectric structures
+Calculation of impedance and wave-amplitudes for layered piezoelectric structures
+
+See `layers.m` for documentation.
